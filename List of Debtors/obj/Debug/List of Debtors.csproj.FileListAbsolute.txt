@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\List of Debtors\List of Debtors\bin\Debug\List of Debtors.exe.config
+C:\Users\Lenovo\source\repos\List of Debtors\List of Debtors\bin\Debug\List of Debtors.exe
+C:\Users\Lenovo\source\repos\List of Debtors\List of Debtors\bin\Debug\List of Debtors.pdb
+C:\Users\Lenovo\source\repos\List of Debtors\List of Debtors\obj\Debug\List of Debtors.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\List of Debtors\List of Debtors\obj\Debug\List of Debtors.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\List of Debtors\List of Debtors\obj\Debug\List of Debtors.exe
+C:\Users\Lenovo\source\repos\List of Debtors\List of Debtors\obj\Debug\List of Debtors.pdb
